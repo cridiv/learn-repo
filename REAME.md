@@ -1,3 +1,3 @@
 # Learning Git
 
-Learning from gwen academy
+Learning from giraffe academy
